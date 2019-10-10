@@ -1,6 +1,5 @@
-# project-euler
-Project Euler Solutions
+# Project Euler Solutions
 
-https://projecteuler.net
+This repository contains solutions to problems contained at the Project Euler website: https://projecteuler.net.
 
-Each folder has the solution to that problem number.  Different problem numbers may be in different languages.
+Each directory has one or more solutions for each problem.  Each problem is numbered starting with 1.
