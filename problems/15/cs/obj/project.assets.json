@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\158\\cs\\158\\158.csproj",
-      "projectName": "158",
-      "projectPath": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\158\\cs\\158\\158.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\15\\cs\\15.csproj",
+      "projectName": "15",
+      "projectPath": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\15\\cs\\15.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\158\\cs\\158\\obj\\",
+      "outputPath": "C:\\Users\\jason\\OneDrive\\Documents\\GitHub\\project-euler\\problems\\15\\cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config"

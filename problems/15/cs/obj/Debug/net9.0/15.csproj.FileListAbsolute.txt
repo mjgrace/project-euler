@@ -1,0 +1,15 @@
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.sourcelink.json
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\bin\Debug\net9.0\15.exe
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\bin\Debug\net9.0\15.deps.json
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\bin\Debug\net9.0\15.runtimeconfig.json
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\bin\Debug\net9.0\15.dll
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\bin\Debug\net9.0\15.pdb
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.dll
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\refint\15.dll
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.pdb
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\15.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Documents\GitHub\project-euler\problems\15\cs\obj\Debug\net9.0\ref\15.dll
